@@ -1,9 +1,26 @@
 # Search Queries for Job Scraper
 
-<!-- NOTE: The built-in CLI scraper tools in this framework target Danish job portals
-     (Jobindex, Jobbank, Jobdanmark, Jobnet) and will NOT work for Saudi Arabia / GCC.
-     Use the Google site-search queries below with the WebSearch / WebFetch tools instead,
-     or browse the listed portals directly. -->
+<!-- PRIMARY: /scrape runs the Scrapling CLIs tools/linkedin_scrape.py (LinkedIn guest API)
+     and tools/gulf_scrape.py (Bayt.com). Feed them the ROLE TITLES under "Scraper Keywords"
+     below. The bundled TS CLIs (.agents/skills/) are Danish-only and unused here.
+     The Google site: queries further down are a FALLBACK for when Scrapling is unavailable. -->
+
+## Scraper Keywords (primary - feed to the CLIs)
+
+Pass these as quoted keywords to `linkedin_scrape.py` / `gulf_scrape.py`.
+
+- **Priority 1 (strongest):** "structural design engineer", "structural engineer"
+- **Priority 2 (industrial/oil & gas):** "civil engineer", "civil structural engineer"
+- **Priority 3 (QC pivot):** "civil qc engineer", "qa qc civil engineer"
+- **Priority 4 (wider net, GCC):** "design engineer"
+
+Default `/scrape` runs Priority 1-3 in KSA, last 14 days. "broad" adds Priority 4 and widens to GCC.
+
+Example:
+```
+python tools/linkedin_scrape.py "structural design engineer" "structural engineer" "civil engineer" --location "Saudi Arabia" --max-age-days 14 --max-pages 3
+python tools/gulf_scrape.py "structural engineer" "civil engineer" --country saudi-arabia --max-age-days 14 --max-pages 2
+```
 
 ## Search Sites (KSA / GCC)
 
