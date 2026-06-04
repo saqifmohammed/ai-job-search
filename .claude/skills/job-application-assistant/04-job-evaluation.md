@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** structural design & analysis (ETABS, STAAD Pro), steel/concrete structures, foundation design, Saudi Aramco standards, civil QC inspection, as-built/brownfield, quantity surveying
+**Moderate match areas:** procurement, 3D modeling/rendering (SketchUp, 3ds Max), construction supervision, document control
+**Weak match areas:** advanced/specialist seismic or dynamic analysis, PE/SCE licensure, design-lead/PM authority, software outside the structural stack
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** structural/civil design and QC on refinery, industrial and oil & gas projects in KSA (Aramco context); EPC contractor environment
+**Moderate:** building/interior design, construction supervision, procurement, GCC (UAE) projects
+**Entry-level:** design-lead / team-lead roles, design consultancy environment, formal PM responsibility
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -63,19 +63,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Deepen pure structural-design specialization (ETABS/STAAD), away from pure QC
+- Grow into senior/lead structural design engineer owning design packages and mentoring juniors
+- Stay on major Aramco / EPC industrial mega-projects, with a path toward design consultancy
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: structural analysis and design, solving design problems, owning design packages, working to clear standards on large projects
+- Tasks that drain: pure inspection/QC with no design content, isolated remote-camp postings, repetitive admin with no engineering substance
+- Non-task factors: leadership style, design ownership, company project pipeline, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: currently employed (SASREF); will only move for a clear step up, not a sideways move
+- **Flexibility**: prefers office/design-based work over long-term isolated remote-site camp rotations
+- **Professional development**: wants growth toward senior/lead design and stronger design-code expertise
 
 ### 6. Salary Benchmark (Optional)
 

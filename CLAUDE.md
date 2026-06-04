@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Sohaib Mohammad BK
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Sohaib Mohammad BK, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,68 +10,76 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Sohaib Mohammad BK
+- **Location:** Jubail / Dammam, Eastern Province, Saudi Arabia (open to all KSA and GCC; not returning to India)
+- **Phone:** +966 59 058 0320
+- **Email:** sohaibmohammed30686@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sohaib-bk
+- **Languages:** English (professional), Malayalam (professional), Hindi (professional), Kannada (elementary)
+- **Status:** Employed - Civil Engineer at SASREF (Jubail) since July 2025
+- **LinkedIn headline:** "Structural / Civil Design Engineer | Aramco Projects | ETABS | STAAD Pro | Foundations | Industrial Structures"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **BTech in Civil Engineering** (2016-2020) - PES University, Bengaluru, India
+- ICS Mahesh PU College (Science, 2014-2016); Habitat Schools (2004-2014)
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Civil Engineer** (Jul 2025 - present) - **SASREF** (Jubail, Eastern Province, KSA)
+  - Refinery civil/structural engineering support
+- **Aramco-Approved Civil QC Inspector** (Oct 2024 - Jul 2025) - **Hyundai Engineering Co. Ltd.** (Jubail, KSA)
+  - Civil QC inspection to Saudi Aramco standards
+- **Structural Design Engineer** (Jul 2022 - Sep 2024) - **Hyundai Engineering & Construction Co., Ltd.** (Eastern Province, KSA)
+  - Jafurah Utilities, Sulfur and Interconnecting System Project (Saudi Aramco); scope: temporary facilities construction
+  - As-built drawings, design change rectification, quantity surveying for warehouse/workshop foundations, MOM/MRI/RFI, daily progress reporting, coordinate provision to surveyors
+- **Procurement Engineer** (Jul 2023 - Sep 2024, concurrent at Hyundai E&C) - drafting POs, invoicing, procuring equipment and materials
+- **Civil / 3D Design Engineer** (May 2021 - May 2022) - **Global Star Interiors** (Ajman, UAE)
+  - Mushrif Park renovation - 3D architectural/interior modeling and rendering from 2D drawings
+- **Civil Engineer** (Sep 2021 - Apr 2022) - **Smart Base Construction** (Karnataka, India)
+- **Civil Engineer** (Jan 2021 - Sep 2021) - **Global Star Construction** (Karnataka, India)
+  - Construction monitoring, design drawing review, method statements/ITP, repair procedures, QA/verification
+- **Freelance Design Engineer** (Aug 2020) - **Q2 Construction** (Puttur, Karnataka, India)
+- **Graduate Engineering Trainee** (Jun - Jul 2019) - **CICON Engineers Pvt Ltd** (Bengaluru, India)
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Structural design and analysis (ETABS, STAAD Pro), steel structures, concrete structures, foundation design
+- **Secondary:** Brownfield/as-built modifications, civil QC inspection (Aramco-approved), quantity surveying, construction technical support, procurement
+- **Domain:** Refinery / oil & gas / industrial structures under Saudi Aramco standards; building projects across KSA and GCC
+- **Software:** ETABS, STAAD Pro, AutoCAD, SketchUp, Autodesk 3ds Max, Photoshop (rendering)
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Autodesk 3ds Max 2013** - Certified Professional
+- **SketchUp**
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Prof. C N R Rao Merit Scholarship
+- Prof. M R Doreswamy Merit Scholarship Award
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- Inferred from CV/LinkedIn - review and refine -->
+- **Coordination-oriented** - extensive cross-discipline coordination with engineers, surveyors, supervisors, clients
+- **Detail and documentation focused** - as-built drawings, RFIs, MOMs, ITPs, daily reporting, filing systems
+- **Adaptable across roles** - moved fluidly between design, QC, procurement, and 3D modeling
+- **Strengths:** structural design execution, standards compliance (Aramco), quality verification, multi-stakeholder communication
+- **Growth areas:** deepening pure-design specialization; demonstrating quantified design impact
+- **Thrives in:** large structured EPC/industrial projects with clear standards and defined deliverables
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Pure structural design depth (ETABS/STAAD), growing into senior/lead designer
+- Major Aramco / EPC industrial mega-projects
+- Moving toward design consultancy work
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Oil & gas / industrial EPC: Hyundai E&C, Samsung E&C, L&T, Saipem, McDermott, Saudi Aramco contractors
+- Structural design consultancies and engineering firms (KSA / GCC)
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Wants real structural design responsibility, not pure QC/inspection
+- Salary must improve on current package (no sideways pay moves)
+- No long-term isolated remote-site camp postings
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

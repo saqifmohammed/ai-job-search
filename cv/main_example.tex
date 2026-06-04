@@ -1,8 +1,7 @@
-%% Example CV - [YOUR_NAME]
+%% Master CV - Sohaib Mohammad BK
 %% Comprehensive overview of all competencies, experience, and achievements.
-%% Use as a master reference when tailoring role-specific CVs.
+%% Use as the master reference when tailoring role-specific CVs (cv/main_<company>.tex).
 %%
-%% SETUP: Run /setup to populate this with your actual information.
 %% Compile with: lualatex main_example.tex
 %% (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors.)
 
@@ -11,42 +10,42 @@
 \moderncvcolor{blue}
 
 % Force both first and last name AND section headings to render in moderncv
-% blue (color1). Default banking on lualatex+MiKTeX leaves these black, which
-% looks inconsistent with the rest of the blue accent scheme.
+% blue (color1). Default banking on lualatex+MiKTeX leaves these black.
 \renewcommand*{\firstnamestyle}[1]{{\fontsize{34}{36}\bfseries\upshape\color{color1}#1}}
 \renewcommand*{\lastnamestyle}[1]{{\fontsize{34}{36}\bfseries\upshape\color{color1}#1}}
 \renewcommand*{\sectionstyle}[1]{{\sectionfont\color{color1}#1}}
 
 \usepackage[utf8]{inputenc}
+\usepackage{needspace}
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Sohaib Mohammad BK - CV},
     pdfpagemode=FullScreen,
 }
 \usepackage[scale=0.80]{geometry}
 \usepackage{import}
 
 % personal data
-\name{[First]}{[Last]}
-\address{[Your Address, City, Country]}{}{}
-\phone[mobile]{[+XX XXXXXXXXXX]}
-\email{[your.email@example.com]}
-\extrainfo{\href{[https://linkedin.com/in/your-profile]}{LinkedIn}, \href{[https://github.com/your-username]}{GitHub}}
+\name{Sohaib}{Mohammad BK}
+\address{Jubail, Eastern Province, Saudi Arabia}{}{}
+\phone[mobile]{+966~59~058~0320}
+\email{sohaibmohammed30686@gmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/sohaib-bk}{LinkedIn}}
 
 \begin{document}
 
 \makecvtitle
 
 % ============================================================
-%     PROFILE STATEMENT
+%     PROFILE STATEMENT  (tailor per role)
 % ============================================================
 
 \vspace{6pt}
-\small{[Write a 3-5 line profile statement tailored to the role you're applying for. Focus on what makes you uniquely qualified. Example: "Data scientist with a PhD in [field] and X years of industry experience. Combines deep domain expertise in [domain] with strong applied machine learning and Python development skills. Experienced in developing end-to-end ML pipelines, from data ingestion to stakeholder-facing dashboards."]}
+\small{Structural and Civil Design Engineer with experience across refinery, industrial, and building projects in KSA and the GCC. Skilled in structural analysis and design with ETABS and STAAD Pro, steel and concrete structures, foundations, and brownfield/as-built modifications, all delivered to Saudi Aramco standards. Strong track record in cross-discipline coordination, quality control, and project documentation.}
 
 % ============================================================
 %     CORE COMPETENCIES
@@ -56,15 +55,15 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item \textbf{[Skill Category 1]}: [Specific skills, frameworks, tools. Be concrete.]
+\item \textbf{Structural Design \& Analysis}: ETABS, STAAD Pro; steel structures, concrete structures, foundation design.
 
-\item \textbf{[Skill Category 2]}: [Specific skills, frameworks, tools.]
+\item \textbf{Standards \& Compliance}: Saudi Aramco standards; Aramco-approved civil QC inspection; Inspection Test Plans, method statements.
 
-\item \textbf{[Skill Category 3]}: [Specific skills, frameworks, tools.]
+\item \textbf{Brownfield \& As-Built}: design-change rectification, as-built drawings, modifications on live industrial sites.
 
-\item \textbf{[Skill Category 4]}: [Domain expertise, methods, approaches.]
+\item \textbf{Project Support}: quantity surveying, document/drawing control, MOM/MRI/RFI, daily progress and status reporting, procurement.
 
-\item \textbf{[Skill Category 5]}: [Tools, platforms, software.]
+\item \textbf{Software}: ETABS, STAAD Pro, AutoCAD, SketchUp, Autodesk 3ds Max, Photoshop.
 
 \end{itemize}
 
@@ -76,32 +75,49 @@
 \vspace{3pt}
 \begin{itemize}
 
-% --- Most Recent Role ---
-\item{\cventry{[YYYY--Present]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{2025--Present}{Civil Engineer}{SASREF}{Jubail, KSA}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1 - be specific, use numbers where possible]
-    \item [Achievement or responsibility 2]
-    \item [Achievement or responsibility 3]
-    \item [Achievement or responsibility 4]
+    \item Civil/structural engineering support at the SASREF refinery, working within Saudi Aramco standards.
 \end{itemize}}}
 
 \vspace{3pt}
 
-% --- Previous Role ---
-\item{\cventry{[YYYY--YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{2024--2025}{Aramco-Approved Civil QC Inspector}{Hyundai Engineering Co. Ltd.}{Jubail, KSA}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1]
-    \item [Achievement or responsibility 2]
-    \item [Achievement or responsibility 3]
+    \item Civil quality-control inspection on Aramco project works to Saudi Aramco standards and procedures.
 \end{itemize}}}
 
 \vspace{3pt}
 
-% --- Earlier Role ---
-\item{\cventry{[YYYY--YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{2022--2024}{Structural Design Engineer}{Hyundai Engineering \& Construction Co., Ltd.}{Eastern Province, KSA}{}{\vspace{1pt}
+Jafurah Utilities, Sulfur and Interconnecting System Project (Saudi Aramco) - temporary facilities.
 \begin{itemize}
-    \item [Achievement or responsibility 1]
-    \item [Achievement or responsibility 2]
+    \item Prepared as-built drawings and rectified minor and major design changes.
+    \item Performed quantity surveying for warehouse and workshop foundations.
+    \item Produced MOM, MRI and RFI; daily progress and porta-cabin status reports; managed drawing/document control.
+    \item Coordinated with engineers and supervisors; provided work-location coordinates to surveyors.
+    \item (Concurrent) Procurement Engineer: drafted purchase orders, issued invoices, procured equipment and materials.
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{2021--2022}{Civil / 3D Design Engineer}{Global Star Interiors}{Ajman, UAE}{}{\vspace{1pt}
+\begin{itemize}
+    \item Design engineer on the Mushrif Park renovation; built 3D models and renderings from 2D drawings.
+    \item Managed client communication, deliverable review, and scheduled interim submissions.
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{2021}{Civil Engineer}{Global Star Construction}{Karnataka, India}{}{\vspace{1pt}
+\begin{itemize}
+    \item Reviewed design/civil drawings, specifications and submittals; prepared method statements and ITPs.
+    \item Coordinated across disciplines, resolved technical issues, and verified civil works against project requirements.
 \end{itemize}}}
 
 \end{itemize}
@@ -114,15 +130,8 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item{\cventry{[YYYY--YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-Thesis: ``[Thesis Title].'' [Brief description of research focus.]
-}}
-
-\vspace{3pt}
-
-\item{\cventry{[YYYY--YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-[Brief description or key topics.]
-}}
+\needspace{3\baselineskip}
+\item{\cventry{2016--2020}{Bachelor of Technology (BTech), Civil Engineering}{PES University}{Bengaluru, India}{}{}}
 
 \end{itemize}
 
@@ -133,27 +142,29 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 \section{Languages}
 \vspace{1pt}
 \begin{itemize}
-\item [Language 1] (native), [Language 2] (fluent), [Language 3] (intermediate).
+\item English (professional), Malayalam (professional), Hindi (professional), Kannada (elementary).
 \end{itemize}
 
 % ============================================================
-%     PUBLICATIONS (optional)
+%     CERTIFICATIONS
 % ============================================================
 
-\section{Publications}
+\section{Certifications}
 \vspace{1pt}
 \begin{itemize}
-\item [Author(s)] ([Year]). [Title]. [Journal/Conference]. \href{[DOI_URL]}{DOI link}
+\item Autodesk 3ds Max 2013 - Certified Professional.
+\item SketchUp.
 \end{itemize}
 
 % ============================================================
-%     HONORS AND AWARDS (optional)
+%     HONORS AND AWARDS
 % ============================================================
 
 \section{Honors and Awards}
 \vspace{1pt}
 \begin{itemize}
-\item{\textbf{[Award Name]} -- [Event/Organization] ([Year]).}
+\item{\textbf{Prof. C N R Rao Merit Scholarship}.}
+\item{\textbf{Prof. M R Doreswamy Merit Scholarship Award}.}
 \end{itemize}
 
 % ============================================================

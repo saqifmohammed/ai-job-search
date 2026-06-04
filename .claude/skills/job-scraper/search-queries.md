@@ -1,76 +1,77 @@
 # Search Queries for Job Scraper
 
-<!-- SETUP: Customize these queries based on your skills, target roles, and location -->
+<!-- NOTE: The built-in CLI scraper tools in this framework target Danish job portals
+     (Jobindex, Jobbank, Jobdanmark, Jobnet) and will NOT work for Saudi Arabia / GCC.
+     Use the Google site-search queries below with the WebSearch / WebFetch tools instead,
+     or browse the listed portals directly. -->
 
-## Search Sites
+## Search Sites (KSA / GCC)
 
-Primary (Danish job market):
-- **jobindex.dk** - largest Danish job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: Denmark / your city)
-- **karriere.dk** - IDA's job board (engineering/science roles)
-- **jobfinder.dk** - another major Danish job board
-- **akademikernes.dk** - academic union job board
+Primary:
+- **linkedin.com/jobs** - primary source; filter Saudi Arabia / Eastern Province, then all KSA, then GCC
+- **bayt.com** - largest Gulf/MENA job board
+- **gulftalent.com** - strong for engineering roles across the GCC
+- **naukrigulf.com** - Gulf arm of Naukri
+- **indeed.com** (sa.indeed.com / ae.indeed.com) - broad aggregator
 
 Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for known target companies
+- EPC contractors: Hyundai E&C, Samsung E&C, L&T, Saipem, McDermott, Saudi Aramco contractor pages
 
 ## Query Categories
 
-Queries are grouped by priority. Each query should be combined with your location terms (e.g. "Copenhagen", "Sjælland", "Hovedstaden") where the site supports it.
+Queries are grouped by priority. Combine each with a location term (e.g. "Eastern Province", "Jubail", "Dammam", "Saudi Arabia", "Riyadh", "UAE") where the site supports it.
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
-
-These match your strongest and most desired career direction.
+### Priority 1: Structural Design Engineer (strongest, most desired)
 
 ```
-site:jobindex.dk "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_CITY]
-site:jobindex.dk "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_COUNTRY]
+site:linkedin.com/jobs "Structural Design Engineer" Saudi Arabia
+site:linkedin.com/jobs "Structural Engineer" ETABS STAAD Saudi Arabia
+site:bayt.com "Structural Design Engineer" Eastern Province
+site:gulftalent.com "Structural Engineer" Saudi Arabia
+"Structural Design Engineer" "STAAD Pro" (Dammam OR Jubail OR Riyadh)
 ```
 
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
-
-These match your domain expertise.
+### Priority 2: Civil / Structural Engineer - industrial & oil & gas
 
 ```
-site:jobindex.dk [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:jobindex.dk [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
+site:linkedin.com/jobs "Civil Engineer" "oil and gas" Saudi Arabia
+site:linkedin.com/jobs "Structural Engineer" refinery OR industrial Saudi Arabia
+site:bayt.com "Civil Structural Engineer" Aramco
+site:naukrigulf.com "Structural Engineer" Saudi Arabia
+"Civil Engineer" foundations industrial (Saudi Arabia OR UAE OR Qatar)
 ```
 
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
-
-Adjacent roles you could pivot into.
+### Priority 3: QA/QC & construction engineering (credentialed pivot)
 
 ```
-site:jobindex.dk "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:jobindex.dk "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
+site:linkedin.com/jobs "Civil QC Engineer" Aramco Saudi Arabia
+site:bayt.com "QA/QC Civil Engineer" Eastern Province
+site:gulftalent.com "Civil Engineer" construction Saudi Arabia
+"Aramco approved" "Civil QC Inspector" Saudi Arabia
 ```
 
-### Priority 4: Broader Technical / Consulting
-
-Wider net for general technical roles.
+### Priority 4: Broader engineering (wider net, GCC-wide)
 
 ```
-site:jobindex.dk [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:jobindex.dk "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "Design Engineer" civil OR structural GCC
+site:naukrigulf.com "Structural Engineer" (UAE OR Qatar OR Saudi Arabia)
+site:indeed.com "Structural Design Engineer" Gulf
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+Tiers (verify each result's location):
+- **Ideal:** Eastern Province KSA - Jubail, Dammam, Khobar, Dhahran
+- **Acceptable:** Anywhere in Saudi Arabia - Riyadh, Jeddah, Yanbu, Jubail Industrial City
+- **Borderline:** Wider GCC - UAE, Qatar, Bahrain, Oman, Kuwait (relocation acceptable)
+- **Too far / excluded:** India and outside the GCC
+
+Flag long-term isolated remote-site / camp postings as friction (deal-breaker tendency), even when location tier passes.
 
 ## Date Filter
 
-Only include jobs posted within the last 14 days, or with an application deadline that has not yet passed. If a posting date cannot be determined, include it but flag as "date unknown".
+Only include jobs posted within the last 14 days, or with an application deadline not yet passed. If a posting date cannot be determined, include it but flag as "date unknown".
 
 ## Adapting Queries
 
-If the user specifies a focus area, select queries from the matching category and also generate 2-3 custom queries for that focus. For example:
-- "/scrape [focus_area]" -> relevant category queries + custom focus-specific queries
+If the user specifies a focus area, select queries from the matching category and generate 2-3 custom focus-specific queries. Example: "/scrape consultancy" -> Priority 1 queries plus custom searches for structural design consultancies in KSA/GCC.
