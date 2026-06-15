@@ -105,12 +105,14 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Structural Design Engineer roles:**
+> Structural Design Engineer with experience designing and analyzing steel and concrete structures and foundations with ETABS and STAAD Pro on refinery and industrial projects in KSA, all to Saudi Aramco standards. Combines design execution with hands-on as-built and brownfield modification experience, and a quality-control background that keeps designs constructible and compliant.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Civil / Structural Engineer (industrial & oil & gas) roles:**
+> Civil and Structural Engineer with refinery, industrial and oil & gas project experience across KSA and the GCC. Strong in structural analysis, foundations, brownfield modifications, quantity surveying and construction technical support, with Aramco-approved QC credentials and a track record of cross-discipline coordination on large EPC projects.
+
+**For QA/QC Civil Engineer roles (credentialed pivot):**
+> Aramco-approved Civil QC Inspector and structural engineer who pairs inspection and verification to Saudi Aramco standards with real design experience in ETABS and STAAD Pro. Brings a designer's understanding of intent to QC work, improving constructability and reducing rework.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.
