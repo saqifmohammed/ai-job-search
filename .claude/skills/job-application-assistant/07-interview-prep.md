@@ -10,50 +10,50 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 These are drawn from your CV/LinkedIn. They are stubs - fill in Situation/Task/Action/Result with specifics (numbers, tools, outcomes) before using them in interviews.
 
-### Jafurah Aramco project - design changes under live construction
-**Source:** CV / LinkedIn - Structural Design Engineer, Hyundai E&C
-**What happened:** Handled minor and major design changes and as-built drawings on the Jafurah Utilities/Sulfur Aramco project (temporary facilities).
-**Why it matters:** Answers "tell me about working under standards/pressure", "a time you handled a design change", "attention to detail".
+### Revenue growth via pricing & upmarket repositioning (Tetro)
+**Source:** CV / LinkedIn - Founders' Office, Tetro
+**What happened:** Contributed to 11x revenue growth and a 46% AOV increase by owning pricing strategy, competitor intelligence, and upmarket repositioning.
+**Why it matters:** Answers "tell me about driving a business outcome", "a data-driven decision", "owning a metric".
 **S/T/A/R stub:**
 - Situation:
 - Task:
 - Action:
 - Result:
 
-### Foundation quantity surveying for warehouses/workshops
-**Source:** CV - Hyundai E&C
-**What happened:** Prepared quantity surveys for warehouse and workshop foundations.
-**Why it matters:** Answers "structural/foundation experience", "accuracy and cost awareness".
+### Shipping AI internal tools via vibe-coding (Tetro)
+**Source:** CV / LinkedIn - Founders' Office, Tetro
+**What happened:** Built and shipped AI-powered internal tools (automated invoicing, product listing pipeline, QC workflows) using Claude Code, Replit, and LLM no-code platforms, cutting manual ops time.
+**Why it matters:** Answers "how do you use AI", "automating a process", "building under ambiguity", "technical fluency for a PM".
 **S/T/A/R stub:**
 - Situation:
 - Task:
 - Action:
 - Result:
 
-### Aramco-approved QC inspection
-**Source:** CV - Hyundai Engineering Co. Ltd.
-**What happened:** Performed civil QC inspection to Saudi Aramco standards.
-**Why it matters:** Answers "how do you ensure quality/compliance", "a time you caught a problem".
+### Driving 65k+ app downloads in 2 months (Wyb)
+**Source:** CV / LinkedIn - Growth Associate, Wyb
+**What happened:** Drove 65,000+ downloads in 2 months via paid + organic acquisition and a college partnership channel you led end to end.
+**Why it matters:** Answers "a growth win", "user acquisition", "owning a channel", "negotiation/partnerships".
 **S/T/A/R stub:**
 - Situation:
 - Task:
 - Action:
 - Result:
 
-### Cross-discipline coordination on construction project
-**Source:** CV - Global Star Construction
-**What happened:** Coordinated across disciplines, reviewed drawings, resolved technical issues, prepared method statements/ITPs.
-**Why it matters:** Answers "teamwork", "conflict/coordination", "managing technical issues".
+### Onboarding & virality optimization (Wyb)
+**Source:** CV / LinkedIn - Growth Associate, Wyb
+**What happened:** Lifted onboarding completion from 65% to 85% and drove K-factor to 0.4 via referral/peer-sharing mechanics.
+**Why it matters:** Answers "an experiment you ran", "improving a funnel metric", "retention/virality thinking".
 **S/T/A/R stub:**
 - Situation:
 - Task:
 - Action:
 - Result:
 
-### 3D design delivery for Mushrif Park renovation
-**Source:** CV - Global Star Interiors (UAE)
-**What happened:** Built 3D models/renderings from 2D drawings, delivered to client on schedule.
-**Why it matters:** Answers "client-facing delivery", "creativity", "working to a spec/deadline".
+### Building and launching OffersInKSA solo
+**Source:** Independent project
+**What happened:** Independently designed, built, and launched a live full-stack KSA deals aggregator (984+ offers, Next.js, Neon PostgreSQL, automated Python pipelines, bilingual).
+**Why it matters:** Answers "initiative / self-direction", "0->1 building", "why the GCC", "technical depth", "shipping end to end".
 **S/T/A/R stub:**
 - Situation:
 - Task:
@@ -63,43 +63,49 @@ These are drawn from your CV/LinkedIn. They are stubs - fill in Situation/Task/A
 ## Common Tough Questions
 
 ### "Why are you leaving / why move from your current role?"
-> Forward-looking: you want deeper structural-design ownership and growth toward senior/lead, ideally on major EPC/Aramco projects or in a design consultancy. No negativity about current employer.
+> Forward-looking: you want a product/growth role in an early-stage GCC startup where you can own outcomes and build with AI. Your work and OffersInKSA project already point at the KSA/GCC market. No negativity.
 
-### "Your career mixes design, QC, and procurement - what are you really?"
-> Frame breadth as an asset: you understand the full project lifecycle from procurement through design to QC and as-built. Your direction now is structural design specialization (ETABS/STAAD).
+### "You're a generalist - what's your actual specialization?"
+> Frame breadth as a startup asset: T-shaped operator with growth + product depth, going deeper on AI-powered products. Point to measurable outcomes (11x revenue contribution, 65k downloads, K-factor 0.4) as proof of depth, not just range.
 
-### "You don't have [specific design code / advanced design] experience."
-> Acknowledge the gap, bridge to ETABS/STAAD work and Aramco-standards exposure, show willingness to learn the specific code/standard quickly.
+### "Your experience is mostly internships and one founding-team stint."
+> Lead with ownership and outcomes, not tenure. You operated at founder level (founders' office), shipped real tools, and launched a live product solo. Stage-appropriate for the early-stage roles you target.
+
+### "You don't have formal PM experience / PM certification."
+> Acknowledge it honestly, then bridge: you've done the core PM job (discovery, prioritization, UX, analytics, shipping) under a different title, and you're quick to pick up formal frameworks. Show eagerness to learn their process.
+
+### "Why the GCC / why relocate from India?"
+> Genuine pull to the GCC startup market; OffersInKSA shows you've already built for the KSA market (Arabic/English, KSA banks). Open about needing visa sponsorship.
 
 ### "Where do you see yourself in 5 years?"
-> Senior/lead structural design engineer owning design packages and mentoring juniors, on major industrial projects.
+> A product/growth leader in the GCC startup ecosystem, having grown from operator to owning a product area or function.
 
 ### "Why this company specifically?"
-> Customize per company. Reference specific projects, sector position, and standards. Never generic.
+> Customize per company. Reference their stage, product, market, and why your growth/AI/product skills fit their current problem. Never generic.
 
 ### "What's your biggest weakness?"
-> Genuine weakness with concrete mitigation (e.g. quantifying impact - now actively tracking design metrics).
+> Genuine weakness with concrete mitigation (e.g. generalist breadth - now deliberately going deep on product/growth craft; or limited large-team experience - mitigating by studying PM frameworks).
 
 ## Questions You Should Ask Interviewers
 
 ### About the Role
-- "What does a typical week look like in this role?"
-- "What would success look like in the first 6 months?"
-- "What's the split between design work, site/QC, and documentation?"
+- "What does the first 90 days look like, and what would success be?"
+- "Is this role more product, more growth, or a blend right now?"
+- "What's the biggest product or growth problem you'd want me on first?"
 
-### About the Team
-- "How big is the design team, and how do you divide work?"
-- "What design software and codes/standards do you work to?"
-- "How do you onboard new engineers?"
+### About the Team & Stage
+- "What stage is the company at, and what's the current focus - acquisition, retention, monetization?"
+- "How does the team work with the founders day to day?"
+- "How are product decisions made and prioritized here?"
 
-### About Growth
-- "Is there a path toward senior/lead designer here?"
-- "Do you support certification or professional development (e.g. SCE, design codes)?"
+### About AI / Tooling
+- "How is the team using AI internally, and where do you want to go with it?"
+- "What does the data/analytics stack look like?"
 
-### About Culture / Logistics (prevent disappointment)
-- "Is this an office-based design role or site/camp-based?"
-- "What's the project pipeline like over the next 1-2 years?"
-- "How would you describe the leadership style in this team?"
+### About Growth & Logistics (prevent disappointment)
+- "What's the runway / funding stage, and what are the next milestones?"
+- "How do you handle visa sponsorship and relocation for this role?"
+- "How would you describe the founding team's working style?"
 
 ## Phone/Video Interview Tips
 - Have STAR examples written out (use this file)
@@ -114,7 +120,7 @@ These are drawn from your CV/LinkedIn. They are stubs - fill in Situation/Task/A
 ### Follow-Up Etiquette
 - Don't call to "stand out" or to learn more about the role post-submission
 - If the employer specified a timeline, respect it and wait
-- If no timeline and significant time passed (2+ weeks), a brief status call is acceptable
+- If no timeline and significant time passed (2+ weeks), a brief status message is acceptable
 - If you have genuinely new, relevant information, a short follow-up is fine
 
 ### Thank-You Notes
@@ -124,7 +130,7 @@ These are drawn from your CV/LinkedIn. They are stubs - fill in Situation/Task/A
 When the user asks for interview practice:
 1. Ask which role/company to simulate
 2. Start with warm-up ("Tell me about yourself")
-3. Progress to role-specific technical questions (structural design, codes, software)
+3. Progress to role-specific questions (product sense, growth strategy, AI/prototyping, metrics)
 4. Include 1-2 behavioral questions using the posting's competencies
 5. End with a tough question or curveball
 6. After each answer, give brief feedback: what worked, what to sharpen

@@ -9,81 +9,91 @@
 
 Pass these as quoted keywords to `linkedin_scrape.py` / `gulf_scrape.py`.
 
-- **Priority 1 (strongest):** "structural design engineer", "structural engineer"
-- **Priority 2 (industrial/oil & gas):** "civil engineer", "civil structural engineer"
-- **Priority 3 (QC pivot):** "civil qc engineer", "qa qc civil engineer"
-- **Priority 4 (wider net, GCC):** "design engineer"
+- **Priority 1 (product):** "product manager", "associate product manager", "product owner"
+- **Priority 2 (AI product):** "ai product manager", "ai product", "growth product manager"
+- **Priority 3 (growth):** "growth associate", "growth manager", "user acquisition", "growth marketing"
+- **Priority 4 (founder's office / strategy):** "founder's office", "chief of staff", "business analyst", "product analyst"
+- **Priority 5 (fallback, lowest priority):** "sales and marketing", "marketing associate"
 
-Default `/scrape` runs Priority 1-3 in KSA, last 14 days. "broad" adds Priority 4 and widens to GCC.
+Default `/scrape` runs Priority 1-4 in Saudi Arabia + UAE, last 14 days. "broad" adds Priority 5 and widens to the wider GCC + remote.
 
 Example:
 ```
-python tools/linkedin_scrape.py "structural design engineer" "structural engineer" "civil engineer" --location "Saudi Arabia" --max-age-days 14 --max-pages 3
-python tools/gulf_scrape.py "structural engineer" "civil engineer" --country saudi-arabia --max-age-days 14 --max-pages 2
+python tools/linkedin_scrape.py "product manager" "ai product manager" "growth manager" "founder's office" --location "Saudi Arabia" --max-age-days 14 --max-pages 3
+python tools/linkedin_scrape.py "product manager" "growth manager" --location "United Arab Emirates" --max-age-days 14 --max-pages 3
+python tools/gulf_scrape.py "product manager" "growth manager" --country saudi-arabia --max-age-days 14 --max-pages 2
+python tools/gulf_scrape.py "product manager" "growth manager" --country uae --max-age-days 14 --max-pages 2
 ```
 
-## Search Sites (KSA / GCC)
+## Search Sites (KSA / UAE / GCC)
 
 Primary:
-- **linkedin.com/jobs** - primary source; filter Saudi Arabia / Eastern Province, then all KSA, then GCC
+- **linkedin.com/jobs** - primary source; filter Saudi Arabia and UAE first, then wider GCC, then remote
 - **bayt.com** - largest Gulf/MENA job board
-- **gulftalent.com** - strong for engineering roles across the GCC
-- **naukrigulf.com** - Gulf arm of Naukri
+- **wuzzuf** / **naukrigulf.com** - additional Gulf coverage
+- **wellfound.com** (AngelList) - early-stage startup roles, often remote/sponsorship-friendly
 - **indeed.com** (sa.indeed.com / ae.indeed.com) - broad aggregator
 
 Secondary (company career pages via Google):
-- EPC contractors: Hyundai E&C, Samsung E&C, L&T, Saipem, McDermott, Saudi Aramco contractor pages
+- GCC startups and scaleups hiring product/growth (fintech, marketplaces, SaaS, e-commerce)
 
 ## Query Categories
 
-Queries are grouped by priority. Combine each with a location term (e.g. "Eastern Province", "Jubail", "Dammam", "Saudi Arabia", "Riyadh", "UAE") where the site supports it.
+Queries are grouped by priority. Combine each with a location term (e.g. "Saudi Arabia", "Riyadh", "Jeddah", "UAE", "Dubai", "Abu Dhabi", "remote") where the site supports it. Add "visa sponsorship" where the site allows it, since sponsorship is a hard filter.
 
-### Priority 1: Structural Design Engineer (strongest, most desired)
-
-```
-site:linkedin.com/jobs "Structural Design Engineer" Saudi Arabia
-site:linkedin.com/jobs "Structural Engineer" ETABS STAAD Saudi Arabia
-site:bayt.com "Structural Design Engineer" Eastern Province
-site:gulftalent.com "Structural Engineer" Saudi Arabia
-"Structural Design Engineer" "STAAD Pro" (Dammam OR Jubail OR Riyadh)
-```
-
-### Priority 2: Civil / Structural Engineer - industrial & oil & gas
+### Priority 1: Product Manager / APM (strongest)
 
 ```
-site:linkedin.com/jobs "Civil Engineer" "oil and gas" Saudi Arabia
-site:linkedin.com/jobs "Structural Engineer" refinery OR industrial Saudi Arabia
-site:bayt.com "Civil Structural Engineer" Aramco
-site:naukrigulf.com "Structural Engineer" Saudi Arabia
-"Civil Engineer" foundations industrial (Saudi Arabia OR UAE OR Qatar)
+site:linkedin.com/jobs "Product Manager" startup Saudi Arabia
+site:linkedin.com/jobs "Associate Product Manager" (Saudi Arabia OR UAE)
+site:bayt.com "Product Manager" Dubai
+site:wellfound.com "Product Manager" Saudi Arabia OR UAE
+"Product Manager" startup (Riyadh OR Dubai OR Jeddah) "visa sponsorship"
 ```
 
-### Priority 3: QA/QC & construction engineering (credentialed pivot)
+### Priority 2: AI Product Manager
 
 ```
-site:linkedin.com/jobs "Civil QC Engineer" Aramco Saudi Arabia
-site:bayt.com "QA/QC Civil Engineer" Eastern Province
-site:gulftalent.com "Civil Engineer" construction Saudi Arabia
-"Aramco approved" "Civil QC Inspector" Saudi Arabia
+site:linkedin.com/jobs "AI Product Manager" (Saudi Arabia OR UAE)
+site:linkedin.com/jobs "Product Manager" "LLM" OR "AI" startup GCC
+site:wellfound.com "AI Product" (Dubai OR Riyadh)
+"Growth Product Manager" AI (UAE OR Saudi Arabia)
 ```
 
-### Priority 4: Broader engineering (wider net, GCC-wide)
+### Priority 3: Growth
 
 ```
-site:linkedin.com/jobs "Design Engineer" civil OR structural GCC
-site:naukrigulf.com "Structural Engineer" (UAE OR Qatar OR Saudi Arabia)
-site:indeed.com "Structural Design Engineer" Gulf
+site:linkedin.com/jobs "Growth Manager" startup (Saudi Arabia OR UAE)
+site:linkedin.com/jobs "Growth Associate" OR "User Acquisition" GCC
+site:bayt.com "Growth Marketing" Dubai
+"Growth" startup (Riyadh OR Dubai) "app downloads" OR "user acquisition"
+```
+
+### Priority 4: Founder's Office / Strategy / Analytics
+
+```
+site:linkedin.com/jobs "Founder's Office" (Saudi Arabia OR UAE)
+site:linkedin.com/jobs "Chief of Staff" startup GCC
+site:linkedin.com/jobs "Product Analyst" OR "Business Analyst" startup (Dubai OR Riyadh)
+"Founding team" OR "Founder's Office" startup (UAE OR Saudi Arabia)
+```
+
+### Priority 5: Sales & Marketing (fallback, lowest priority)
+
+```
+site:linkedin.com/jobs "Marketing Associate" startup (Saudi Arabia OR UAE)
+site:bayt.com "Sales and Marketing" Dubai
 ```
 
 ## Location Filter
 
 Tiers (verify each result's location):
-- **Ideal:** Eastern Province KSA - Jubail, Dammam, Khobar, Dhahran
-- **Acceptable:** Anywhere in Saudi Arabia - Riyadh, Jeddah, Yanbu, Jubail Industrial City
-- **Borderline:** Wider GCC - UAE, Qatar, Bahrain, Oman, Kuwait (relocation acceptable)
-- **Too far / excluded:** India and outside the GCC
+- **Ideal:** Saudi Arabia (Riyadh, Jeddah, Dammam/Khobar) and UAE (Dubai, Abu Dhabi), with visa sponsorship
+- **Acceptable:** Wider GCC (Qatar, Bahrain, Oman, Kuwait) with sponsorship; fully remote (GCC or global)
+- **Borderline:** Remote roles that prefer GCC time zones; roles silent on sponsorship (flag to confirm)
+- **Too far / excluded:** GCC roles with no visa sponsorship; India-based on-site roles (fallback only, flag to user)
 
-Flag long-term isolated remote-site / camp postings as friction (deal-breaker tendency), even when location tier passes.
+**Hard filter:** visa sponsorship is required for any GCC on-site role. Flag roles that do not mention sponsorship so the user can confirm before applying.
 
 ## Date Filter
 
@@ -91,4 +101,4 @@ Only include jobs posted within the last 14 days, or with an application deadlin
 
 ## Adapting Queries
 
-If the user specifies a focus area, select queries from the matching category and generate 2-3 custom focus-specific queries. Example: "/scrape consultancy" -> Priority 1 queries plus custom searches for structural design consultancies in KSA/GCC.
+If the user specifies a focus area, select queries from the matching category and generate 2-3 custom focus-specific queries. Example: "/scrape ai" -> Priority 2 queries plus custom searches for AI/LLM product roles at GCC startups.
