@@ -1,7 +1,7 @@
-# Job Application Assistant for Sohaib Mohammad BK
+# Job Application Assistant for Saqif Mohammed
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for Sohaib Mohammad BK, helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Saqif Mohammed, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -11,75 +11,85 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ## Candidate Profile
 
 ### Identity
-- **Name:** Sohaib Mohammad BK
-- **Location:** Jubail / Dammam, Eastern Province, Saudi Arabia (open to all KSA and GCC; not returning to India)
-- **Phone:** +966 59 058 0320
-- **Email:** sohaibmohammed30686@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sohaib-bk
-- **Languages:** English (professional), Malayalam (professional), Hindi (professional), Kannada (elementary)
-- **Status:** Employed - Civil Engineer at SASREF (Jubail) since July 2025
-- **LinkedIn headline:** "Structural / Civil Design Engineer | Aramco Projects | ETABS | STAAD Pro | Foundations | Industrial Structures"
+- **Name:** Saqif Mohammed
+- **Location:** Bengaluru / Mangalore, Karnataka, India. Targeting the GCC (Saudi Arabia and UAE primary; Qatar/remote secondary). Open to visa sponsorship and relocation.
+- **Phone:** +91 8123312844
+- **Email:** saqif.mohammad@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/saqifmohammed
+- **GitHub:** https://github.com/saqifmohammed
+- **Portfolio:** https://offersinksa.com
+- **Languages:** English (fluent), Malayalam, Hindi, Kannada, Arabic (beginner - reading/writing, Islamic literacy). *[Proficiency for Malayalam/Hindi/Kannada inferred - review]*
+- **Status:** Recently completed Founders' Office role at Tetro (ended Mar 2026); actively job-searching as of mid-2026.
+- **LinkedIn headline:** "I write on tech and business sometimes" (current); positioning headline for applications: "Product & Growth Operator | 0->1 Builder | AI Workflow Automation | Ex-Founders' Office"
 
 ### Education
-- **BTech in Civil Engineering** (2016-2020) - PES University, Bengaluru, India
-- ICS Mahesh PU College (Science, 2014-2016); Habitat Schools (2004-2014)
+- **BBA, Entrepreneurship & Business Analytics** (Sep 2021 - Apr 2024, graduated 2024) - Yenepoya University, Mangalore, India
+  - Entrepreneurship Club President (2023-24); organized and led a 2-day business event with 500+ student participants
+  - Literary Club Co-ordinator (2024)
 
 ### Professional Experience
-- **Civil Engineer** (Jul 2025 - present) - **SASREF** (Jubail, Eastern Province, KSA)
-  - Refinery civil/structural engineering support
-- **Aramco-Approved Civil QC Inspector** (Oct 2024 - Jul 2025) - **Hyundai Engineering Co. Ltd.** (Jubail, KSA)
-  - Civil QC inspection to Saudi Aramco standards
-- **Structural Design Engineer** (Jul 2022 - Sep 2024) - **Hyundai Engineering & Construction Co., Ltd.** (Eastern Province, KSA)
-  - Jafurah Utilities, Sulfur and Interconnecting System Project (Saudi Aramco); scope: temporary facilities construction
-  - As-built drawings, design change rectification, quantity surveying for warehouse/workshop foundations, MOM/MRI/RFI, daily progress reporting, coordinate provision to surveyors
-- **Procurement Engineer** (Jul 2023 - Sep 2024, concurrent at Hyundai E&C) - drafting POs, invoicing, procuring equipment and materials
-- **Civil / 3D Design Engineer** (May 2021 - May 2022) - **Global Star Interiors** (Ajman, UAE)
-  - Mushrif Park renovation - 3D architectural/interior modeling and rendering from 2D drawings
-- **Civil Engineer** (Sep 2021 - Apr 2022) - **Smart Base Construction** (Karnataka, India)
-- **Civil Engineer** (Jan 2021 - Sep 2021) - **Global Star Construction** (Karnataka, India)
-  - Construction monitoring, design drawing review, method statements/ITP, repair procedures, QA/verification
-- **Freelance Design Engineer** (Aug 2020) - **Q2 Construction** (Puttur, Karnataka, India)
-- **Graduate Engineering Trainee** (Jun - Jul 2019) - **CICON Engineers Pvt Ltd** (Bengaluru, India)
+- **Founders' Office - Product & Operations** (Sep 2025 - Mar 2026) - **Tetro** (Bengaluru, India)
+  - Pre-loved iPhone marketplace (Apple-verified, service-history-free); one of 5 founding team members
+  - Contributed to 11x revenue growth (Rs 8.4L -> Rs 92.7L over the period; 60%+ YoY) and 46% AOV increase (Rs 37K -> Rs 54K) via pricing strategy, competitive intelligence, upmarket repositioning
+  - Scaled order volume from 35 annual to 64 in 2 months, on track for a Rs 1.5Cr+ run rate
+  - Built and shipped AI-powered internal tools via vibe-coding (automated invoicing, product listing pipeline, QC workflows) using Replit, Claude Code, and LLM no-code platforms
+  - Owned end-to-end product QC against Apple verification standards; led website UX/UI; tracked CX via GA, MS Clarity, Shopify analytics; ran competitor price monitoring
+- **Generalist Intern** (Jan 2025 - Sep 2025, concurrent track at Tetro) - **Tetro** (Bengaluru, India)
+  - Partnered with founders to architect and optimize core business systems across sales, fulfillment, and customer workflows; translated ambiguous requirements into rapid prototypes
+- **Growth Associate (Internship)** (Aug 2024 - Nov 2024) - **Wyb** (Bengaluru, India)
+  - Social discovery app, early-stage growth team
+  - 65,000+ app downloads within 2 months of launch (paid + organic); led college partnership channel (prospected, negotiated, closed university deals) as a primary install driver
+  - Onboarding completion 65% -> 85% (+20pp); K-factor to 0.4 via referral/peer-sharing mechanics
+- **Business Analyst Intern** (Feb 2024 - May 2024) - **56Secure** (Bengaluru, India)
+  - Power BI dashboards and Excel models for data-driven decisions; segmented B2C base in HubSpot and launched community sales campaigns; ETL/migration into CRM
+- **Business Development Associate Intern** (Apr 2023 - Sep 2023) - **Cube** (Bengaluru, India)
+  - VC-backed startup (Peak XV / Sequoia India, Graph Ventures); connected 400+ business owners via LinkedIn Sales Navigator; worked closely with founding team
+
+### Independent Projects
+- **OffersInKSA** (offersinksa.com) - Saudi Arabia deals & bank offers aggregator. Designed, built, and launched solo; live with 984+ verified offers across Al Rajhi, SNB, Riyad Bank, and 10+ Saudi banks. Next.js, Neon PostgreSQL, automated Python pipelines (GitHub Actions) with daily ingestion + dedup. Bilingual (Arabic/English), SEO-optimized for KSA search intent.
+- **BlurrCam** (github.com/saqifmohammed/blurrcam) - Flutter mobile privacy camera app; real-time background blur in camera captures. Built on Windows with Flutter SDK.
 
 ### Technical Skills
-- **Primary:** Structural design and analysis (ETABS, STAAD Pro), steel structures, concrete structures, foundation design
-- **Secondary:** Brownfield/as-built modifications, civil QC inspection (Aramco-approved), quantity surveying, construction technical support, procurement
-- **Domain:** Refinery / oil & gas / industrial structures under Saudi Aramco standards; building projects across KSA and GCC
-- **Software:** ETABS, STAAD Pro, AutoCAD, SketchUp, Autodesk 3ds Max, Photoshop (rendering)
+- **Product:** 0->1 product development, AI workflow automation, UX/UI decision-making, roadmapping, user research, competitor analysis
+- **Growth:** user acquisition, onboarding optimization, retention, K-factor / virality mechanics, funnel analytics, partnership outreach
+- **Analytics:** Google Analytics, MS Clarity, Shopify Analytics, Power BI, Tableau, SQL
+- **AI & Dev:** LLM prototyping, prompt engineering, Claude Code, Replit, vibe-coding, n8n, Airtable
+- **Tech Stack:** Next.js, PostgreSQL (Neon), Python, Flutter, GitHub Actions, Figma, Notion, HubSpot
 
 ### Certifications
-- **Autodesk 3ds Max 2013** - Certified Professional
-- **SketchUp**
+- **Cisco** - Data Analytics Essentials
+- **Cisco** - Introduction to Data Science
 
 ### Publications
-- None
+- Informal writing on tech and business topics (LinkedIn / blog)
 
 ### Awards
-- Prof. C N R Rao Merit Scholarship
-- Prof. M R Doreswamy Merit Scholarship Award
+- None formal (see education activities: Entrepreneurship Club President, 500+ participant event)
 
 ### Behavioral Profile
 <!-- Inferred from CV/LinkedIn - review and refine -->
-- **Coordination-oriented** - extensive cross-discipline coordination with engineers, surveyors, supervisors, clients
-- **Detail and documentation focused** - as-built drawings, RFIs, MOMs, ITPs, daily reporting, filing systems
-- **Adaptable across roles** - moved fluidly between design, QC, procurement, and 3D modeling
-- **Strengths:** structural design execution, standards compliance (Aramco), quality verification, multi-stakeholder communication
-- **Growth areas:** deepening pure-design specialization; demonstrating quantified design impact
-- **Thrives in:** large structured EPC/industrial projects with clear standards and defined deliverables
+- **0->1 builder, bias to action** - ships fast, prototypes from ambiguous requirements (vibe-coding, founders' office work)
+- **Highly adaptive** - multi-culture background (UAE schooling, Bangalore pre-university, Mangalore degree), five languages
+- **Data-driven operator** - funnel analytics, dashboards, competitor intelligence feeding decisions
+- **Founder-adjacent generalist** - moves across product, growth, ops, analytics, and AI tooling
+- **Strengths:** startup execution, growth experimentation, AI-assisted automation, stakeholder/partnership outreach, communication (also writes content)
+- **Growth areas:** depth in a single PM craft area (vs generalist breadth); larger-org / structured-process experience; formal PM frameworks
+- **Thrives in:** early-stage startups with founder access, ambiguity, and fast iteration
 
 ### What Excites You
-- Pure structural design depth (ETABS/STAAD), growing into senior/lead designer
-- Major Aramco / EPC industrial mega-projects
-- Moving toward design consultancy work
+- Product, growth, strategy, and analytics roles in new-age startups
+- AI / AI PM work: building LLM-powered products and workflow automation
+- Relocating to and building a career in the GCC (KSA / UAE)
 
 ### Target Sectors
-- Oil & gas / industrial EPC: Hyundai E&C, Samsung E&C, L&T, Saipem, McDermott, Saudi Aramco contractors
-- Structural design consultancies and engineering firms (KSA / GCC)
+- Early-stage / growth-stage startups (product, growth, AI PM, founder's office)
+- Tech, consumer marketplaces, fintech, SaaS in KSA and UAE
+- Open to Sales & Marketing roles as a lower-priority fallback
 
 ### Deal-breakers
-- Wants real structural design responsibility, not pure QC/inspection
-- Salary must improve on current package (no sideways pay moves)
-- No long-term isolated remote-site camp postings
+- **Visa sponsorship required** (relocating from India to the GCC)
+- **Startup / early-stage preferred** over large slow corporates
+- Wants real product/growth ownership, not pure support or admin
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

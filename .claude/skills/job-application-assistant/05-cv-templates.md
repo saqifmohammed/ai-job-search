@@ -105,14 +105,14 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 
 **Create 2-3 profile statement templates for your main role types:**
 
-**For Structural Design Engineer roles:**
-> Structural Design Engineer with experience designing and analyzing steel and concrete structures and foundations with ETABS and STAAD Pro on refinery and industrial projects in KSA, all to Saudi Aramco standards. Combines design execution with hands-on as-built and brownfield modification experience, and a quality-control background that keeps designs constructible and compliant.
+**For Product Manager / APM roles:**
+> Product and operations builder from a startup founding team, with hands-on 0->1 experience across product, growth, and AI workflow automation. Contributed to 11x revenue growth and a 46% AOV increase at Tetro by owning pricing, competitive intelligence, and UX decisions, and shipped AI-powered internal tools using Claude Code and LLM platforms. Combines product instinct with hard analytics (GA, Shopify, Power BI, SQL) to find and fix funnel problems fast.
 
-**For Civil / Structural Engineer (industrial & oil & gas) roles:**
-> Civil and Structural Engineer with refinery, industrial and oil & gas project experience across KSA and the GCC. Strong in structural analysis, foundations, brownfield modifications, quantity surveying and construction technical support, with Aramco-approved QC credentials and a track record of cross-discipline coordination on large EPC projects.
+**For Growth roles:**
+> Growth operator with a measurable early-stage track record: 65,000+ app downloads in 2 months, onboarding completion lifted from 65% to 85%, and K-factor driven to 0.4 through referral and virality mechanics. Owns the full acquisition-to-retention funnel, from paid/organic channels and partnership outreach to onboarding experiments, backed by analytics and rapid iteration.
 
-**For QA/QC Civil Engineer roles (credentialed pivot):**
-> Aramco-approved Civil QC Inspector and structural engineer who pairs inspection and verification to Saudi Aramco standards with real design experience in ETABS and STAAD Pro. Brings a designer's understanding of intent to QC work, improving constructability and reducing rework.
+**For AI Product / AI PM roles:**
+> Product builder who ships AI-powered products and automation. Built and shipped LLM-based internal tools (automated invoicing, listing pipelines, QC workflows) via vibe-coding with Claude Code and Replit, and independently launched OffersInKSA, a live full-stack KSA deals aggregator (Next.js, PostgreSQL, automated Python pipelines, 984+ offers). Pairs prompt engineering and rapid prototyping with product analytics and a 0->1 startup mindset.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

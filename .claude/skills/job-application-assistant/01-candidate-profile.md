@@ -1,104 +1,93 @@
 # Candidate Profile
 
 ## Identity
-- **Name:** Sohaib Mohammad BK
-- **Location:** Jubail (near Coral Jubail) / Dammam, Eastern Province, Saudi Arabia
-- **Phone:** +966 59 058 0320
-- **Email:** sohaibmohammed30686@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sohaib-bk
-- **GitHub:** (none)
-- **Languages:** English (Professional Working), Malayalam (Professional Working), Hindi (Professional Working), Kannada (Elementary)
-- **Status:** Employed - Civil Engineer at SASREF (Jubail) since July 2025
-- **Constraints:** Open to all of Saudi Arabia and the wider GCC (UAE, Qatar, etc.); not returning to India. Eastern Province is the ideal base. Avoids long-term isolated remote-site camp postings.
+- **Name:** Saqif Mohammed
+- **Location:** Bengaluru / Mangalore, Karnataka, India
+- **Phone:** +91 8123312844
+- **Email:** saqif.mohammad@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/saqifmohammed
+- **GitHub:** https://github.com/saqifmohammed
+- **Portfolio:** https://offersinksa.com
+- **Languages:** English (fluent), Malayalam, Hindi, Kannada, Arabic (beginner - reading/writing, Islamic literacy). *[Proficiency for Malayalam/Hindi/Kannada inferred from background - review]*
+- **Status:** Recently completed Founders' Office role at Tetro (ended Mar 2026); actively job-searching.
+- **Constraints:** Targeting the GCC (Saudi Arabia and UAE primary; Qatar/remote secondary). Open to visa sponsorship and relocation from India. Prefers early-stage startups.
 
 ## Education
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| BTech, Civil Engineering | 2016-2020 | PES University, Bengaluru, India | Structural engineering, design, construction |
-| Pre-University (Science) | 2014-2016 | ICS Mahesh PU College, India | PCM |
-| Schooling | 2004-2014 | Habitat Schools | - |
+| BBA, Entrepreneurship & Business Analytics | Sep 2021 - Apr 2024 | Yenepoya University, Mangalore, India | Entrepreneurship, business analytics, strategy |
+
+**Activities:**
+- Entrepreneurship Club President (2023-24); organized and led a 2-day business event with 500+ student participants
+- Literary Club Co-ordinator (2024)
+
+**Background note:** Multi-culture upbringing - schooling in the UAE, pre-university in Bangalore, bachelor's in Mangalore.
 
 ## Professional Experience
 
-### Civil Engineer - SASREF (July 2025 - Present)
-Jubail, Eastern Province, Saudi Arabia
-- Civil/structural engineering support at the SASREF refinery
-- Refinery, industrial structures and brownfield context under Saudi Aramco standards
+### Founders' Office - Product & Operations - Tetro (September 2025 - March 2026)
+Bengaluru, India. Pre-loved iPhone marketplace (Apple-verified, service-history-free); one of 5 founding team members.
+- Contributed to 11x revenue growth (Rs 8.4L -> Rs 92.7L over the period; 60%+ YoY) and a 46% AOV increase (Rs 37K -> Rs 54K) by owning pricing strategy, competitive intelligence, and upmarket repositioning
+- Scaled order volume from 35 annual orders to 64 in 2 months, putting the business on track for a Rs 1.5Cr+ run rate
+- Built and shipped AI-powered internal tools via vibe-coding (automated invoice generation, product listing pipeline, QC workflows for incoming iPhones) using Replit, Claude Code, and LLM no-code platforms, cutting manual ops time
+- Owned end-to-end product quality control: inspected, graded, and cleared incoming iPhone inventory against Apple verification standards
+- Led website UX/UI decisions; tracked customer experience with GA, MS Clarity, and Shopify analytics to fix funnel drop-offs
+- Ran real-time competitor price monitoring and translated market insights into pricing and positioning decisions alongside founders
 
-### Aramco-Approved Civil QC Inspector - Hyundai Engineering Co. Ltd. (October 2024 - July 2025)
-Jubail, Eastern Province, Saudi Arabia
-- Civil quality-control inspection on Aramco project works, working to Saudi Aramco standards and procedures
+### Generalist Intern - Tetro (January 2025 - September 2025)
+Bengaluru, India. (Track at Tetro preceding the Founders' Office role; total Tetro tenure ~1 year 3 months.)
+- Partnered with founders to architect and optimize core business systems across sales, fulfillment, and customer workflows in a scaling startup
+- Translated ambiguous business requirements into rapid prototypes, validated use cases, and iterated toward production-ready workflows
 
-### Structural Design Engineer - Hyundai Engineering & Construction Co., Ltd. (July 2022 - September 2024)
-Eastern Province, Saudi Arabia
-Project: Jafurah Utilities, Sulfur and Interconnecting System Project (Saudi Aramco). Scope: construction of temporary facilities.
-- Preparation of as-built drawings; rectification of minor and major design changes
-- Quantity surveying for foundations of warehouses and workshops
-- Drawing/document control and quick retrieval; document editing and modification per employer needs
-- Preparation of MOM, MRI and RFI; daily progress reports; daily status of installed porta cabins
-- Coordination with engineers and supervisors; provision of work-location coordinates to engineers and surveyors
+### Growth Associate (Internship) - Wyb (August 2024 - November 2024)
+Bengaluru, India. Social discovery app, early-stage growth team.
+- Drove 65,000+ app downloads within 2 months of launch through a combined paid and organic acquisition strategy
+- Led the college partnership channel: prospected, negotiated, and closed deals with multiple universities to promote the app at campus events, a primary driver of early install volume
+- Improved onboarding completion from 65% to 85% (+20pp) through iterative UX experiments and user feedback loops
+- Improved K-factor to 0.4 by designing referral and peer-sharing mechanics embedded in the onboarding flow
 
-### Procurement Engineer - Hyundai Engineering & Construction Co., Ltd. (July 2023 - September 2024, concurrent)
-Eastern Province, Saudi Arabia
-- Drafting purchase orders; issuing invoices; procuring equipment and materials
+### Business Analyst Intern - 56Secure (February 2024 - May 2024)
+Bengaluru, India.
+- Built Power BI dashboards and Excel models to surface actionable insights for data-driven business decisions
+- Segmented the B2C customer base in HubSpot and launched community sales campaigns that increased conversions
+- Extracted, cleaned, and migrated data into CRM systems, improving data accessibility for strategy and sales teams
 
-### Civil / 3D Design Engineer - Global Star Interiors (May 2021 - May 2022)
-Ajman, United Arab Emirates
-- Design engineer on the Mushrif Park renovation (regional themed houses)
-- 3D modeling of architectural/interior elements from 2D drawings and sketches; 3D renderings (lighting, textures, camera views, Photoshop post)
-- Client communication, deliverable review, design-issue resolution, scheduled interim submissions
-
-### Civil Engineer - Smart Base Construction (September 2021 - April 2022)
-Karnataka, India
-
-### Civil Engineer - Global Star Construction (January 2021 - September 2021)
-Karnataka, India
-- Construction monitoring for schedule and correctness; planning, coordination and supervision of technical aspects
-- Review of design/civil drawings, standards, specifications, base design packages, material submittals, prequalification
-- Cross-discipline coordination and technical issue resolution; repair procedures and scope of work; material recommendations
-- Method statements and Inspection Test Plans (ITP); coordination with independent testing laboratory; documentation/filing; corrective and preventive actions; inspection and verification of civil works
-
-### Freelance Design Engineer - Q2 Construction (August 2020)
-Puttur, Karnataka, India
-- One-month freelance design engineering engagement
-
-### Graduate Engineering Trainee - CICON Engineers Pvt Ltd (June 2019 - July 2019)
-Bengaluru, India
-- 4-week internship: construction equipment, site communication, observing site engineers/PM/planner
+### Business Development Associate Intern - Cube (April 2023 - September 2023)
+Bengaluru, India. VC-backed startup (Peak XV / Sequoia India, Graph Ventures).
+- Connected 400+ business owners through LinkedIn using Sales Navigator
+- Worked in close collaboration with the founding team
 
 ## Independent Projects
-- (none recorded yet)
+- **OffersInKSA** (offersinksa.com) - Saudi Arabia deals & bank offers aggregator. Independently designed, built, and launched a full-stack platform; live with 984+ verified offers across Al Rajhi, SNB, Riyad Bank, and 10+ other Saudi banks. Built with Next.js, Neon PostgreSQL, and automated Python data pipelines (GitHub Actions) for continuous offer ingestion and daily deduplication. Bilingual (Arabic/English), SEO-optimized for KSA search intent; covers shopping, travel, food, fashion, health, and finance.
+- **BlurrCam** (github.com/saqifmohammed/blurrcam) - Flutter-based mobile privacy camera app for real-time background blur in camera captures; developed on Windows with the Flutter SDK.
 
 ## Technical Skills
 
-### Structural Engineering & Design
-- **Structural analysis & design** (proficient): ETABS, STAAD Pro
-- **Steel structures, concrete structures, foundation design**
-- **Brownfield / as-built modifications**, design change rectification
+### Product
+- 0->1 product development, AI workflow automation, UX/UI decision-making, roadmapping, user research, competitor analysis
 
-### Construction & Quality
-- Civil QC inspection (Aramco-approved), Inspection Test Plans, method statements
-- Quantity surveying, construction technical support, document/drawing control
-- Procurement (POs, invoicing, materials)
+### Growth
+- User acquisition, onboarding optimization, retention, K-factor / virality mechanics, funnel analytics, partnership outreach
 
-### Domain Expertise
-- Refinery / oil & gas / industrial structures under Saudi Aramco standards
-- Building and industrial projects across KSA and GCC
+### Analytics
+- Google Analytics, MS Clarity, Shopify Analytics, Power BI, Tableau, SQL
 
-### Software & Tools
-- ETABS, STAAD Pro, AutoCAD, SketchUp, Autodesk 3ds Max, Photoshop
+### AI & Dev
+- LLM prototyping, prompt engineering, Claude Code, Replit, vibe-coding, n8n, Airtable
+
+### Tech Stack
+- Next.js, PostgreSQL (Neon), Python, Flutter, GitHub Actions, Figma, Notion, HubSpot
 
 ## Publications
-- None
+- Informal writing on tech and business topics (LinkedIn / blog)
 
 ## Awards
-- Prof. C N R Rao Merit Scholarship
-- Prof. M R Doreswamy Merit Scholarship Award
+- None formal (see Education activities)
 
 ## Certifications
-- Autodesk 3ds Max 2013 - Certified Professional
-- SketchUp
+- Cisco - Data Analytics Essentials
+- Cisco - Introduction to Data Science
 
 ## References
 - Available upon request.

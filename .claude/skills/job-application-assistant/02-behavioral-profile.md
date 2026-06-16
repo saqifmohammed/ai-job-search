@@ -4,52 +4,56 @@
      and LinkedIn content. Review and refine before relying on it in applications. -->
 
 ## Overview
-*[Inferred from CV / LinkedIn - review before relying on this]*
-Sohaib presents as a **steady, coordination-driven execution engineer**: someone who keeps large industrial projects organized, compliant, and moving, while building structural-design depth. He has adapted across design, QC, procurement, and 3D modeling roles, which signals flexibility and reliability over narrow specialization (so far).
+*[Inferred from CV / LinkedIn About - review before relying on this]*
+Saqif presents as an **energetic, founder-adjacent 0->1 operator**: a generalist who moves quickly across product, growth, operations, analytics, and AI tooling in early-stage startups. The LinkedIn About describes someone "very quickly adaptive" with multi-culture exposure (UAE schooling, Bangalore pre-university, Mangalore degree) and five languages, "looking for opportunities in growth, product, strategy, analytics in new-age startups." The pattern across roles is bias-to-action: ship fast, prototype from ambiguity, measure, iterate.
 
 ## Core Behavioral Drives
 *[Inferred - directional, not a scored assessment]*
 
 | Drive | Level | Meaning |
 |-------|-------|---------|
-| Conscientiousness / detail | High | Heavy documentation: as-builts, RFIs, MOMs, ITPs, daily reports, filing systems |
-| Coordination / collaboration | High | Constant cross-discipline coordination with engineers, surveyors, supervisors, clients |
-| Standards / process adherence | High | Works to Saudi Aramco standards; QC and verification mindset |
-| Adaptability | Moderate-High | Moved between design, QC, procurement, rendering across employers |
+| Action orientation / speed | High | Ships AI tools via vibe-coding, prototypes from ambiguous requirements, launches projects solo (OffersInKSA) |
+| Adaptability | High | Multi-culture background, five languages, moves across product/growth/ops/analytics roles |
+| Data orientation | High | Funnel analytics, dashboards (Power BI, GA, Clarity), competitor intelligence driving decisions |
+| Initiative / ownership | High | Built and launched OffersInKSA and BlurrCam independently; led college partnership channel end to end |
+| Collaboration with founders | High | Founders' office work, close founder collaboration across multiple startups |
 
 ## Strongest Behaviors
-- **Keeps projects organized:** document control, quick retrieval, progress and status tracking
-- **Compliance and quality focus:** inspection, verification, corrective/preventive action, standards-driven work
-- **Cross-functional communication:** coordinates engineers, surveyors, supervisors, and clients
+- **Builds 0->1:** turns ambiguous requirements into shipped products and internal tools fast
+- **Growth experimentation:** acquisition, onboarding optimization, virality mechanics, measured with hard metrics
+- **AI-assisted execution:** uses LLM tooling (Claude Code, Replit, n8n) to automate ops and prototype
+- **Outreach & communication:** partnership prospecting/closing, 400+ founder outreach, writes content on tech/business
 
 ## How You Work Best
-- Large, structured EPC / industrial projects with clear standards and defined deliverables
-- Roles with genuine design ownership (ETABS/STAAD), not pure inspection
-- Stable team and project structure rather than ambiguous, self-directed greenfield chaos
+- Early-stage startups with direct founder access, ambiguity, and fast iteration cycles
+- Roles with real product/growth ownership and room to experiment
+- Cross-functional generalist scope rather than a narrow single-function box
 
 ## Growth Areas (frame positively in applications)
-- **Pure-design depth:** career has mixed design with QC/procurement; frame the breadth as "understands the full project lifecycle, now specializing in design"
-- **Quantified impact:** few hard metrics on file yet; gather numbers (tonnage designed, drawings produced, schedule saved) for future applications
+- **Generalist vs specialist depth:** breadth across functions is a startup asset; frame as "T-shaped operator going deep on product/growth" rather than scattered
+- **Large-org / structured process:** experience is startup-weighted; frame adaptability and self-direction as strengths, acknowledge eagerness to learn formal PM frameworks
+- **Tenure:** roles so far are internships + a founding-team stint; lead with outcomes and ownership, not titles or years
 
 ## Mapping to Job Posting Language
 
 When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- "structural design", "ETABS", "STAAD Pro", "foundations", "steel/concrete structures"
-- "Aramco standards", "industrial / refinery / oil & gas structures"
-- "coordination", "documentation", "QA/QC", "as-built", "brownfield"
+- "0 to 1", "early-stage", "founding team", "startup", "ambiguity", "bias to action"
+- "growth", "user acquisition", "retention", "funnel", "experimentation", "virality"
+- "AI", "LLM", "automation", "prompt engineering", "no-code", "rapid prototyping"
+- "data-driven", "analytics", "dashboards", "product analytics"
 
 When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- "pure QC / inspection only" with no design content
-- "remote desert/offshore camp, long rotations" (avoids long-term camp postings)
-- "highly autonomous, undefined scope, build from scratch alone"
+- "10+ years experience", "senior/principal only", deep single-domain specialist requirement
+- large slow-moving corporate with rigid process and no founder access
+- pure sales-quota or pure support roles with no product/growth ownership
 
 ## Management Style Preferences
 *[Inferred - confirm with candidate]*
-- Works well with clear standards, defined scope, and a structured reporting line
-- Likely values managers who give design responsibility and a path toward senior/lead
+- Works well with high autonomy, founder access, and fast feedback loops
+- Likely values managers who give ownership and tolerate fast experimentation over rigid process
 
 ## Using This in Applications
-- **Cover letters:** lead with structural design + Aramco-standards experience; use coordination/documentation as supporting evidence of reliability
-- **CV:** emphasize ETABS/STAAD design work and the Jafurah/Aramco project; keep QC and procurement as breadth, not the headline
-- **Interviews:** prepare STAR stories on design problem-solving and on cross-discipline coordination
-- **Don't overstate:** do not claim lead/PM authority not yet held; do not imply metrics that aren't documented
+- **Cover letters:** lead with 0->1 product/growth outcomes (11x revenue, 65k downloads, K-factor 0.4) and the OffersInKSA project as proof of self-directed building; tie to the company's stage and market
+- **CV:** emphasize measurable growth/product outcomes and AI tooling; keep analytics/BD as supporting breadth
+- **Interviews:** prepare STAR stories on shipping under ambiguity, a growth experiment, and an independent build
+- **Don't overstate:** do not claim sole credit for company-level revenue (it was a founding-team contribution); do not imply senior/lead PM authority not yet held

@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** structural design & analysis (ETABS, STAAD Pro), steel/concrete structures, foundation design, Saudi Aramco standards, civil QC inspection, as-built/brownfield, quantity surveying
-**Moderate match areas:** procurement, 3D modeling/rendering (SketchUp, 3ds Max), construction supervision, document control
-**Weak match areas:** advanced/specialist seismic or dynamic analysis, PE/SCE licensure, design-lead/PM authority, software outside the structural stack
+**Strong match areas:** 0->1 product development, growth (user acquisition, onboarding, retention, virality), product analytics (GA, MS Clarity, Shopify, Power BI, SQL), AI workflow automation (LLM prototyping, Claude Code, Replit, n8n), competitor/market analysis, startup operations
+**Moderate match areas:** UX/UI decision-making, full-stack prototyping (Next.js, Python, Flutter), business analysis/CRM (HubSpot), partnership/BD outreach, roadmapping
+**Weak match areas:** senior/lead PM authority, large-org / enterprise PM process, deep single-domain specialization, formal PM certifications, engineering management
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** structural/civil design and QC on refinery, industrial and oil & gas projects in KSA (Aramco context); EPC contractor environment
-**Moderate:** building/interior design, construction supervision, procurement, GCC (UAE) projects
-**Entry-level:** design-lead / team-lead roles, design consultancy environment, formal PM responsibility
+**Strong:** product/growth/operations in early-stage startups; founding-team / founders' office work; growth experimentation with measurable outcomes; AI-tool building
+**Moderate:** business analysis, BD/partnership outreach, consumer marketplace ops, full-stack solo project delivery
+**Entry-level:** senior/lead PM roles, large-org PM, enterprise B2B PM, domain-specialist PM (e.g. deep fintech/healthtech regulatory)
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -47,10 +47,12 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
-- Frequent international travel: FLAG (discuss with user)
+- Saudi Arabia or UAE (with visa sponsorship): PASS (target market)
+- Qatar / wider GCC (with sponsorship): PASS
+- Remote (GCC or global): PASS
+- No visa sponsorship for a GCC role: FAIL (deal-breaker - relocating from India)
+- India-based role: FLAG (acceptable only as fallback, discuss with user)
+- Frequent international travel: PASS
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
@@ -63,19 +65,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- Deepen pure structural-design specialization (ETABS/STAAD), away from pure QC
-- Grow into senior/lead structural design engineer owning design packages and mentoring juniors
-- Stay on major Aramco / EPC industrial mega-projects, with a path toward design consultancy
+- Land a product / growth / AI-PM / founder's-office role in an early-stage GCC startup (KSA or UAE)
+- Grow from generalist operator into a product manager with depth in growth and AI-powered products
+- Build a long-term career base in the GCC (relocating from India)
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: structural analysis and design, solving design problems, owning design packages, working to clear standards on large projects
-- Tasks that drain: pure inspection/QC with no design content, isolated remote-camp postings, repetitive admin with no engineering substance
-- Non-task factors: leadership style, design ownership, company project pipeline, degree of autonomy
+- Tasks that energize: building 0->1 products, growth experimentation, shipping AI/LLM tooling, working directly with founders, owning measurable outcomes
+- Tasks that drain: rigid large-org process with no ownership, pure support/admin, sales-quota-only roles with no product input
+- Non-task factors: company stage, founder access, degree of autonomy, learning curve, visa sponsorship
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: currently employed (SASREF); will only move for a clear step up, not a sideways move
-- **Flexibility**: prefers office/design-based work over long-term isolated remote-site camp rotations
-- **Professional development**: wants growth toward senior/lead design and stronger design-code expertise
+- **Relocation**: relocating from India to the GCC; visa sponsorship is required and is a hard filter
+- **Stage fit**: strongly prefers early-stage startups over large slow corporates
+- **Professional development**: wants ownership and a path to grow into a senior PM/growth role; values mentorship and exposure to founders
 
 ### 6. Salary Benchmark (Optional)
 
